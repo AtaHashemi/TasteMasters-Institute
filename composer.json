@@ -1,0 +1,17 @@
+{
+    "name": "hashe/project",
+    "autoload": {
+        "psr-4": {
+            "Hashe\\Project\\": "D:/Ata/RRC/XAMPP/htdocs/Web2/challanges/starting"
+        }
+    },
+    "authors": [
+        {
+            "name": "aa"
+        }
+    ],
+    "require": {
+        "gumlet/php-image-resize": "^1.9",
+        "tinymce/tinymce": "^6.8"
+    }
+}
